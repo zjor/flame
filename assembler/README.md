@@ -1,7 +1,9 @@
 # Flame written in Assembler
 
-Date: March 2002
-Source: [https://sources.ru/asm/flame.shtml](https://sources.ru/asm/flame.shtml)
+![screenshot](../assets/flame.jpg)
+
+- **Date:** March 2002
+- **Source:** [https://sources.ru/asm/flame.shtml](https://sources.ru/asm/flame.shtml)
 
 ```
 ;=========================================================
